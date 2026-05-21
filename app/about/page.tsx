@@ -36,11 +36,12 @@ export default function AboutPage() {
                 </h2>
                 <div className="mt-7 space-y-5 text-pretty leading-relaxed text-stone">
                   <p>
-                    For eighteen years, Northstone has drawn residential plans
-                    for the foothills and valleys around Yosemite. We have
-                    learned how every nearby building department reads a set,
-                    where projects tend to stall, and how to draw so they
-                    don&apos;t.
+                    For three decades, Northstone has drawn residential and
+                    commercial plans across Los Angeles, Orange, and
+                    Fresno&ndash;Madera counties from its base in the Sierra
+                    foothills. We have learned how each building department
+                    reads a set, where projects tend to stall, and how to draw
+                    so they don&apos;t.
                   </p>
                   <p>
                     We are not a contractor and not a sales office. We are
@@ -115,9 +116,9 @@ export default function AboutPage() {
               <dl className="grid grid-cols-2 gap-8 md:col-span-2 md:grid-cols-3">
                 {[
                   ["Established", String(site.established)],
-                  ["Based in", "Oakhurst, CA"],
-                  ["Jurisdictions", "14 counties"],
-                  ["Practice", "Residential only"],
+                  ["Based in", "Coarsegold, CA"],
+                  ["Jurisdictions", "LA · Orange · Fresno"],
+                  ["Practice", "Residential & commercial"],
                   ["Coordinates", site.coordinates],
                   ["Hours", site.hours],
                 ].map(([k, v]) => (

@@ -111,9 +111,9 @@ export default function HomePage() {
                 </h2>
               </div>
               <p className="text-pretty leading-relaxed text-stone md:pb-2">
-                Northstone handles the full arc of residential planning: the
-                drawings, the submittal, and the back-and-forth with the
-                building department. You stay focused on the project.
+                Northstone handles the full arc of residential and commercial
+                planning: the drawings, the submittal, and the back-and-forth
+                with the building department. You stay focused on the project.
               </p>
             </div>
           </Reveal>
@@ -237,11 +237,12 @@ export default function HomePage() {
                 </p>
                 <blockquote className="mt-10 border-l-2 border-warm/50 pl-6">
                   <p className="text-pretty text-lg leading-relaxed text-bone">
-                    &ldquo;They handed the building department a set with
-                    nothing to argue about. Approved on the first review.&rdquo;
+                    A clean, code-checked set is the fastest path through plan
+                    review — it is the difference between a permit issued and a
+                    project that stalls in correction cycles.
                   </p>
                   <footer className="mt-4 font-mono text-[11px] uppercase tracking-[0.18em] text-stone">
-                    Homeowner · Second-Story Addition
+                    Northstone · How we draw
                   </footer>
                 </blockquote>
               </div>

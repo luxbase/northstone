@@ -12,12 +12,14 @@ export const metadata: Metadata = {
     "A curated blueprint gallery of recent residential plans, additions, ADUs, and permit-ready work.",
 };
 
-const summary = [
-  ["Projects shown", String(projects.length)],
-  ["Permits approved", String(projects.filter((p) => p.status === "Permit Approved").length)],
-  ["Jurisdictions", String(new Set(projects.map((p) => p.jurisdiction)).size)],
-  ["Years drafting", "18"],
-];
+// HIDDEN until correct figures confirmed — restore together with the
+// summary <section> in the JSX below.
+// const summary = [
+//   ["Projects shown", String(projects.length)],
+//   ["Permits approved", String(projects.filter((p) => p.status === "Permit Approved").length)],
+//   ["Jurisdictions", String(new Set(projects.map((p) => p.jurisdiction)).size)],
+//   ["Years drafting", "30"],
+// ];
 
 export default function ProjectsPage() {
   return (
@@ -26,9 +28,11 @@ export default function ProjectsPage() {
         code="A-00"
         label="Projects"
         title="A blueprint gallery."
-        intro="Recent residential plans, additions, and approvals from the studio. Client information is redacted and addresses removed — the drafting, layouts, and permit history are real."
+        intro="Recent residential plans, additions, and ADU conversions from the studio. Owner names are withheld — the drafting, layouts, and permit outcomes are real."
       />
 
+      {/* HIDDEN until correct figures confirmed — restore together with the
+          `summary` const above.
       <section className="border-b border-bone/10">
         <Container>
           <dl className="grid grid-cols-2 md:grid-cols-4">
@@ -48,6 +52,7 @@ export default function ProjectsPage() {
           </dl>
         </Container>
       </section>
+      */}
 
       <section className="py-20 md:py-28">
         <Container>

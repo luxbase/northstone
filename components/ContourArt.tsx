@@ -1,5 +1,5 @@
 /**
- * Topographic contour study — a stylised Half Dome elevation rendered as
+ * Topographic contour study — a stylised peak elevation rendered as
  * nested granite contour rings. Decorative only.
  */
 export function ContourArt({ className = "" }: { className?: string }) {

@@ -116,7 +116,7 @@ export function ContactForm() {
             required
             disabled={sending}
             autoComplete="name"
-            placeholder="Jane Mariposa"
+            placeholder="Jane Smith"
             className={fieldClass}
           />
         </div>

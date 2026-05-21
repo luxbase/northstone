@@ -37,7 +37,7 @@ export default function ServicesPage() {
         code="S-00"
         label="Services"
         title="Plans, permits, and the path between them."
-        intro="Northstone covers the full arc of residential planning — from the first measured drawing to the building department's final stamp. Each service is built to keep your project moving."
+        intro="Northstone covers the full arc of residential and commercial planning — homes, additions, and ADUs alongside restaurant and retail work, from the first measured drawing to the building department's final stamp. Each service is built to keep your project moving."
       />
 
       <section className="py-20 md:py-28">

@@ -61,6 +61,14 @@ export default function ContactPage() {
                         {site.phone}
                       </a>
                     </li>
+                    <li>
+                      <a
+                        href={`mailto:${site.email}`}
+                        className="text-sm text-stone transition-colors hover:text-bone"
+                      >
+                        {site.email}
+                      </a>
+                    </li>
                     <li className="text-sm text-stone">{site.hours}</li>
                     <li className="font-mono text-[11px] tracking-widest text-stone/60">
                       {site.coordinates}

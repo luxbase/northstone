@@ -22,7 +22,7 @@ type Plan = {
 
 const PLANS: Plan[] = [
   {
-    // 1 — Cedar Ridge Residence
+    // 1 — single-family residence layout
     foot: { x: 26, y: 40, w: 308, h: 198 },
     rooms: [
       { x: 26, y: 40, w: 168, h: 120, label: "LIVING" },
@@ -40,7 +40,7 @@ const PLANS: Plan[] = [
     dim: "48'-0\"",
   },
   {
-    // 2 — Half Dome View Addition
+    // 2 — Red Lion Drive Remodel (addition)
     foot: { x: 62, y: 40, w: 210, h: 150 },
     ghost: { x: 44, y: 60, w: 272, h: 168 },
     rooms: [
@@ -57,7 +57,7 @@ const PLANS: Plan[] = [
     tag: { x: 200, y: 214, text: "EXISTING FOOTPRINT" },
   },
   {
-    // 3 — Granite Flat ADU
+    // 3 — West 53rd Street ADUs
     foot: { x: 84, y: 52, w: 192, h: 174 },
     rooms: [
       { x: 84, y: 52, w: 124, h: 174, label: "LIVING / KITCHEN" },
@@ -71,7 +71,7 @@ const PLANS: Plan[] = [
     dim: "24'-0\"",
   },
   {
-    // 4 — El Portal Remodel
+    // 4 — interior remodel layout
     foot: { x: 28, y: 44, w: 304, h: 194 },
     hatch: { x: 28, y: 44, w: 304, h: 108 },
     rooms: [
@@ -90,7 +90,7 @@ const PLANS: Plan[] = [
     tag: { x: 180, y: 96, text: "WALL REMOVED" },
   },
   {
-    // 5 — Sentinel Dome Cabin
+    // 5 — compact two-bedroom layout
     foot: { x: 66, y: 42, w: 228, h: 194 },
     rooms: [
       { x: 66, y: 42, w: 138, h: 120, label: "LIVING" },
@@ -107,7 +107,7 @@ const PLANS: Plan[] = [
     dim: "32'-0\"",
   },
   {
-    // 6 — Bridalveil Garage Conversion
+    // 6 — Arroyo Seco Avenue ADUs
     foot: { x: 40, y: 66, w: 280, h: 150 },
     rooms: [
       { x: 40, y: 66, w: 128, h: 150, label: "LIVING" },
