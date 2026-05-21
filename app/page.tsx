@@ -72,7 +72,7 @@ export default function HomePage() {
               style={{ animationDelay: "360ms" }}
             >
               <span className="h-px w-10 bg-bone/15" aria-hidden />
-              Est. {site.established} · Mariposa, California
+              Est. {site.established} · {site.location}
             </div>
           </div>
         </Container>

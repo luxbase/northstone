@@ -3,12 +3,11 @@ export const site = {
   tagline: "Plans built on solid ground.",
   description:
     "Permit-ready residential plans with dependable guidance from concept to approval.",
-  phone: "(209) 555-0148",
-  email: "studio@northstone.build",
-  address: ["1140 Granite Court, Suite 3", "Mariposa, California 95338"],
+  phone: "+1 (714) 767-7457",
+  location: "Oakhurst, California",
   hours: "Mon–Fri · 8:00–5:00 PT",
   established: 2007,
-  coordinates: "37.4849° N, 119.9663° W",
+  coordinates: "37.3274° N, 119.6490° W",
 };
 
 export const nav = [

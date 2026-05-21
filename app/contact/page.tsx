@@ -52,25 +52,13 @@ export default function ContactPage() {
                 <div>
                   <SheetLabel code="X-01">The Studio</SheetLabel>
                   <ul className="mt-6 flex flex-col gap-4">
-                    <li className="text-sm leading-relaxed text-bone">
-                      {site.address[0]}
-                      <br />
-                      <span className="text-stone">{site.address[1]}</span>
-                    </li>
+                    <li className="text-sm text-bone">{site.location}</li>
                     <li>
                       <a
                         href={`tel:${site.phone.replace(/[^\d+]/g, "")}`}
                         className="text-sm text-stone transition-colors hover:text-bone"
                       >
                         {site.phone}
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        href={`mailto:${site.email}`}
-                        className="text-sm text-stone transition-colors hover:text-bone"
-                      >
-                        {site.email}
                       </a>
                     </li>
                     <li className="text-sm text-stone">{site.hours}</li>

@@ -115,7 +115,7 @@ export default function AboutPage() {
               <dl className="grid grid-cols-2 gap-8 md:col-span-2 md:grid-cols-3">
                 {[
                   ["Established", String(site.established)],
-                  ["Based in", "Mariposa, CA"],
+                  ["Based in", "Oakhurst, CA"],
                   ["Jurisdictions", "14 counties"],
                   ["Practice", "Residential only"],
                   ["Coordinates", site.coordinates],

@@ -193,8 +193,8 @@ export function ContactForm() {
           role="alert"
           className="mt-5 rounded-xl border border-warm/30 bg-warm/5 px-4 py-3 text-sm leading-relaxed text-warm"
         >
-          Something went wrong sending your request. Please try again, or email
-          us directly at studio@northstone.build.
+          Something went wrong sending your request. Please try again, or call
+          us directly at +1 (714) 767-7457.
         </p>
       )}
 

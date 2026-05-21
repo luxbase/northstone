@@ -38,25 +38,13 @@ export function SiteFooter() {
           </FooterCol>
 
           <FooterCol title="Studio">
-            <li className="text-sm leading-relaxed text-stone">
-              {site.address[0]}
-              <br />
-              {site.address[1]}
-            </li>
+            <li className="text-sm text-stone">{site.location}</li>
             <li>
               <a
                 href={`tel:${site.phone.replace(/[^\d+]/g, "")}`}
                 className="text-sm text-stone transition-colors hover:text-bone"
               >
                 {site.phone}
-              </a>
-            </li>
-            <li>
-              <a
-                href={`mailto:${site.email}`}
-                className="text-sm text-stone transition-colors hover:text-bone"
-              >
-                {site.email}
               </a>
             </li>
             <li className="text-sm text-stone">{site.hours}</li>
