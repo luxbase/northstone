@@ -13,6 +13,7 @@ permit-services studio. Architectural, granite-toned, restrained.
 
 ```bash
 npm install
+cp .env.example .env.local   # then paste your Web3Forms key
 npm run dev      # http://localhost:3000
 npm run build    # production build
 npm start        # serve the build
