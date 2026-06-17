@@ -117,3 +117,31 @@
 [INFO] 2026-05-21T14:03:17.199Z [session=f6152eaa-07da-4278-8b9b-b16c5228ba97] Resolved stateDir: /Users/doceno/.a5c/state
 [INFO] 2026-05-21T14:03:17.199Z [session=f6152eaa-07da-4278-8b9b-b16c5228ba97] Checking session file at: /Users/doceno/.a5c/state/f6152eaa-07da-4278-8b9b-b16c5228ba97.md
 [INFO] 2026-05-21T14:03:17.199Z [session=f6152eaa-07da-4278-8b9b-b16c5228ba97] No active loop found for session f6152eaa-07da-4278-8b9b-b16c5228ba97 — allowing exit
+[INFO] 2026-05-21T21:19:48.906Z handleHookRunStop started
+[INFO] 2026-05-21T21:19:48.907Z Hook input received
+[INFO] 2026-05-21T21:19:48.908Z [session=b0224452-7e21-4a81-af21-1c6f6254dc4c] Session ID: b0224452-7e21-4a81-af21-1c6f6254dc4c
+[INFO] 2026-05-21T21:19:48.908Z [session=b0224452-7e21-4a81-af21-1c6f6254dc4c] Resolved pluginRoot: /Users/doceno/.claude/plugins/cache/a5c-ai/babysitter/4.0.157
+[INFO] 2026-05-21T21:19:48.908Z [session=b0224452-7e21-4a81-af21-1c6f6254dc4c] Resolved stateDir: /Users/doceno/.a5c/state
+[INFO] 2026-05-21T21:19:48.908Z [session=b0224452-7e21-4a81-af21-1c6f6254dc4c] Checking session file at: /Users/doceno/.a5c/state/b0224452-7e21-4a81-af21-1c6f6254dc4c.md
+[INFO] 2026-05-21T21:19:48.908Z [session=b0224452-7e21-4a81-af21-1c6f6254dc4c] No active loop found for session b0224452-7e21-4a81-af21-1c6f6254dc4c — allowing exit
+[INFO] 2026-05-21T21:26:01.593Z handleHookRunStop started
+[INFO] 2026-05-21T21:26:01.595Z Hook input received
+[INFO] 2026-05-21T21:26:01.595Z [session=b0224452-7e21-4a81-af21-1c6f6254dc4c] Session ID: b0224452-7e21-4a81-af21-1c6f6254dc4c
+[INFO] 2026-05-21T21:26:01.595Z [session=b0224452-7e21-4a81-af21-1c6f6254dc4c] Resolved pluginRoot: /Users/doceno/.claude/plugins/cache/a5c-ai/babysitter/4.0.157
+[INFO] 2026-05-21T21:26:01.595Z [session=b0224452-7e21-4a81-af21-1c6f6254dc4c] Resolved stateDir: /Users/doceno/.a5c/state
+[INFO] 2026-05-21T21:26:01.595Z [session=b0224452-7e21-4a81-af21-1c6f6254dc4c] Checking session file at: /Users/doceno/.a5c/state/b0224452-7e21-4a81-af21-1c6f6254dc4c.md
+[INFO] 2026-05-21T21:26:01.595Z [session=b0224452-7e21-4a81-af21-1c6f6254dc4c] No active loop found for session b0224452-7e21-4a81-af21-1c6f6254dc4c — allowing exit
+[INFO] 2026-05-21T21:28:18.629Z handleHookRunStop started
+[INFO] 2026-05-21T21:28:18.630Z Hook input received
+[INFO] 2026-05-21T21:28:18.631Z [session=b0224452-7e21-4a81-af21-1c6f6254dc4c] Session ID: b0224452-7e21-4a81-af21-1c6f6254dc4c
+[INFO] 2026-05-21T21:28:18.631Z [session=b0224452-7e21-4a81-af21-1c6f6254dc4c] Resolved pluginRoot: /Users/doceno/.claude/plugins/cache/a5c-ai/babysitter/4.0.157
+[INFO] 2026-05-21T21:28:18.631Z [session=b0224452-7e21-4a81-af21-1c6f6254dc4c] Resolved stateDir: /Users/doceno/.a5c/state
+[INFO] 2026-05-21T21:28:18.631Z [session=b0224452-7e21-4a81-af21-1c6f6254dc4c] Checking session file at: /Users/doceno/.a5c/state/b0224452-7e21-4a81-af21-1c6f6254dc4c.md
+[INFO] 2026-05-21T21:28:18.631Z [session=b0224452-7e21-4a81-af21-1c6f6254dc4c] No active loop found for session b0224452-7e21-4a81-af21-1c6f6254dc4c — allowing exit
+[INFO] 2026-05-21T21:34:10.139Z handleHookRunStop started
+[INFO] 2026-05-21T21:34:10.141Z Hook input received
+[INFO] 2026-05-21T21:34:10.141Z [session=b0224452-7e21-4a81-af21-1c6f6254dc4c] Session ID: b0224452-7e21-4a81-af21-1c6f6254dc4c
+[INFO] 2026-05-21T21:34:10.141Z [session=b0224452-7e21-4a81-af21-1c6f6254dc4c] Resolved pluginRoot: /Users/doceno/.claude/plugins/cache/a5c-ai/babysitter/4.0.157
+[INFO] 2026-05-21T21:34:10.141Z [session=b0224452-7e21-4a81-af21-1c6f6254dc4c] Resolved stateDir: /Users/doceno/.a5c/state
+[INFO] 2026-05-21T21:34:10.141Z [session=b0224452-7e21-4a81-af21-1c6f6254dc4c] Checking session file at: /Users/doceno/.a5c/state/b0224452-7e21-4a81-af21-1c6f6254dc4c.md
+[INFO] 2026-05-21T21:34:10.142Z [session=b0224452-7e21-4a81-af21-1c6f6254dc4c] No active loop found for session b0224452-7e21-4a81-af21-1c6f6254dc4c — allowing exit
